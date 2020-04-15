@@ -150,7 +150,7 @@ Hay disponibles algoritmos para bastantes operaciones, sin embargo las más clas
   
 ## ¿Como saber que tipo de colección escoger?
 
-<img src="imagenes/tipoColeccion.png" alt="Tipo Colección">
+<img src="imagenes/tipoColeccionElegida.png" alt="Tipo Colección">
 
 Para ello se puede utilizar el siguiente diagrama con el que deberemos de preguntarnos, siguiendo las líneas, las necesidades que tenemos.
 
