@@ -32,8 +32,8 @@ Las operaciones disponibles son las siguientes:
 - Transformar en array: toArray
 - Streams: stream, parallelStream
 
-## Set<E>
-- Se trata de un Collection(E) que no permite elementos duplicados.
+## Set< E >
+- Se trata de un Collection<E> que no permite elementos duplicados.
 - Es una abstracción del concepto matemático de conjunto.
 - No añade ningún método a los heredados de Collection(E)
 - No hay
