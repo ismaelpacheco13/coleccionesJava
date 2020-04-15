@@ -2,9 +2,11 @@
 
 ## Concepto
 Una colección es un contenedor para un conjunto de elementos de un tipo en una sola unidad.
+
 Se usan para el almacenamiento, recuperación y manipulación de datos.
 
 Las colecciones estan disponibles en Java desde la versión 2.
+
 Pertenecen al paquete java.util
 
 ## Interfaces y clases en Java
